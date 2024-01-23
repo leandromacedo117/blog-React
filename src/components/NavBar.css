@@ -1,0 +1,16 @@
+.NavBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+
+}
+
+.NavBar h2 a{
+    opacity: 1;
+}
+
+.NavBar ul {
+    display: flex;
+    gap: 3rem;
+}
