@@ -3,6 +3,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
+    background-color: #16171b;
 
 }
 
@@ -12,5 +13,13 @@
 
 .NavBar ul {
     display: flex;
-    gap: 3rem;
+    gap: 1.3rem;
+}
+
+.new-post-btn{
+    font-weight: bold;
+    border: 1px solid #fff;
+    padding: .5rem 1rem;
+    border-radius: 1rem;
+    opacity: 1;
 }
